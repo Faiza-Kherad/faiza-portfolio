@@ -5,7 +5,7 @@ const Hero = () => {
     <div className='h-[80vh] flex flex-col-reverse md:flex-row items-center md:pl-12 md:pt-40 p-4'>
       <div className="left-side w-full md:w-[50%] text-center md:text-left">
         <h1 className='font-extrabold text-4xl md:text-5xl my-6 md:my-12'>
-          Hey! I'm <span className='text-pink-600'>Faiza</span>
+          Hey! I am <span className='text-pink-600'>Faiza</span>
         </h1>
         <p className='text-base md:text-lg'>
           I am a 12 years old passionate web developer crafting clean and responsive websites. 
