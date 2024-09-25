@@ -1,6 +1,7 @@
 import Image from 'next/image';
 
 const Hero = () => {
+
   return (
     <div className='h-[80vh] flex flex-col-reverse md:flex-row items-center md:pl-12 md:pt-40 p-4'>
       <div className="left-side w-full md:w-[50%] text-center md:text-left">
