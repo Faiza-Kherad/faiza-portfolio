@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const Contact = () => {
   return (
-    <div className="md:pl-12 md:mt-72 h-[100vh]">
+    <div className="md:pl-12 md:mt-72 h-[100vh] pl-12">
       <p className="text-2xl md:text-3xl font-extrabold mb-6">Contact Me</p>
       <input 
         type="text" 
